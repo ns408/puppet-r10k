@@ -15,5 +15,5 @@ mod "property_list_key",
   :ref => '952a65d9ea2c5809f4e18f30537925ee45548abc'
 
 mod 'role',
-  :git => "/tmp/gosource-role.git",
+  :git => "file:////tmp/gosource-role.git",
   :ref => '1.0'
