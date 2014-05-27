@@ -16,4 +16,4 @@ mod "property_list_key",
 
 mod 'role',
   :git => "file:////tmp/gosource-role.git",
-  :ref => '1.0'
+  :ref => 'v1.0'
